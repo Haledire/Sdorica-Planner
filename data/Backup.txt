@@ -1,0 +1,70 @@
+Alice; 1; 3,4,5; White; h0163
+Angelia; 0; 3,4,5; White; h0021
+Angelia SP; 0; 5; Black; h0007
+Angelia MZ; 0; 5; Gold; h0167
+Aosta; 0; 3,4,5; White; h0005
+Charle; 0; 3,4,5; Black; h0025
+Charle SP; 0; 5; Gold; h0012
+Crushfang; 0; 3,4,5; Gold; t0033
+Dagger; 0; 3,4,5; Black; t0032
+Devious; 0; 3,4,5; Black; t0153
+Dumb Bear Soldier; 0; 3,4,5; White; t0049
+Dylan; 0; 3,4,5; Gold; h0022
+Dylan SP; 0; 5; Black; h0009
+Elio; 0; 3,4,5; Gold; h0133
+Experiment; 0; 3,4,5; Gold; m0011
+Fatima; 0; 3,4,5; Black; t0026
+Fatima SP; 0; 5; x; t0039
+Frederica; 0; 3,4,5; White; h0135
+Golemwalt; 0;3,4,5; Gold; b0001
+Hestia; 0; 3,4,5; White; e0002
+Hestia SP; 0; 5; Black; e0046
+Hyde; 0; 3,4,5; White; h0134
+Izumi; 0; 3,4,5; Gold; h0137
+Izumi SP; 0; 5; Black; h0172
+Jahan; 0; 3,4,5; Gold; h0024
+Jerome; 0; 3,4,5; Gold; h0048
+Jia-Shen; 0; 3,4,5; x; t0156
+Karen; 0; 3,4,5; Black; h0136
+Karnulla; 0; 3,4,5; Gold; b0028
+Kittyeyes; 0; 3,4,5; Black; h0004
+Kittyeyes SP; 0; 5; White; h0016
+Koll; 0; 3,4,5; White;b0015
+Law; 0; 3,4,5; x; t0158
+Lazer; 0; 3,4,5; Gold; h0152
+Leah; 0; 3,4,5; Black; h0031
+Leah SP; 0; 5; White; h0040
+Lio; 0; 3,4,5; White; h0030
+Lio SP; 0; 5; Gold; h0014
+Lisa; 0; 3,4,5; White; h0036
+Lisa SP; 0; 5; Gold; h0041
+Marie; 0; 3,4,5; x; r0160
+Misa; 0; 3,4,5; White; h0154
+Morris; 0; 3,4,5; Black; h0043
+Naya; 0; 3,4,5; Black; h0018
+Naya MZ; 0; 5; x; h0165
+Ned; 0; 3,4,5; Black; h0035
+Nigel; 0; 3,4,5; Gold; h0029
+Nigel SP; 0; 5; Gold; h0038
+Nolva; 0; 3,4,5; Black; h0097
+Nolva SP; 0; 5; Gold; h0042
+Pang; 0; 3,4,5; Gold; t0017
+Pang SP; 0; 5; Black; t0044
+Puggi; 0; 3,4,5; White; b0037
+Roger; 0; 3,4,5; Gold; h0006
+Rune; 0; 3,4,5; Gold; h0151
+Sharice; 0; 3,4,5; Black; h0138
+Sharice MZ; 0; 5; x; h0166
+Sherlock; 0; 3,4,5; White; r0034
+Shirley; 0; 3,4,5; Gold; h0047
+Shirley SP; 0; 5; White; h0170
+Sione; 0; 3,4,5; Gold; h0020
+Sione SP; 0; 5; White; h0008
+Sione MZ; 0; 5; x; h0168
+Sophie; 0; 3,4,5; x; h0150
+Theodore; 0; 3,4,5; White; h0023
+Tica; 0; 3,4,5; White; h0010
+Tica SP; 0; 5; Gold; h0045
+Yamitsuki SP; 0; 5; White; h0013
+Yamitsuki; 0; 3,4,5; Black; h0003
+Yan-Bo; 0; 3,4,5; Black; t0027
