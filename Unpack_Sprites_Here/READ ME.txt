@@ -1,0 +1,1 @@
+Unpack the Sprite folder that AssetStudioGUI 12 creates from the exported Sprite files into this directory.  In blender - run the 'Run Me First' text block as a script (it should be on the first screen that you see when opening the blend file).
